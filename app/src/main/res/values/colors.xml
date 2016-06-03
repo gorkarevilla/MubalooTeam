@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#31A9E1</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#0174DF</color>
+    <color name="colorAboutMe">#FF8000</color>
+    <color name="colorAboutMeTitle">#000000</color>
+
+    <color name="colorOnline">#00FF00</color>
+    <color name="colorOffline">#FF0000</color>
+
+    <color name="colorExpTeamBack">#303F9F</color>
+    <color name="colorExpTeamText">#FFFFFF</color>
+    <color name="colorExpLeadBack">#FF8000</color>
+    <color name="colorExpLeadText">#000000</color>
+    <color name="colorExpMemberBack">#FFFFFF</color>
+    <color name="colorExpMemberText">#000000</color>
+
+    <color name="colorCEOBack">#FF8000</color>
+    <color name="colorCEOText">#303F9F</color>
+</resources>

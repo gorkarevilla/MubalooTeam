@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="TwoWayView">
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="MemberName">
+        <item name="android:textColor">@color/colorExpMemberText</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="MemberRole">
+        <item name="android:textColor">@color/colorExpMemberText</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="ExpTeam">
+        <item name="android:textSize">17sp</item>
+        <item name="android:colorBackground">@color/colorExpTeamBack</item>
+        <item name="android:textColor">@color/colorExpTeamText</item>
+    </style>
+
+    <style name="ExpMember">
+        <item name="android:textSize">17sp</item>
+        <item name="android:colorBackground">@color/colorExpMemberBack</item>
+        <item name="android:textColor">@color/colorExpMemberText</item>
+    </style>
+
+    <style name="ExpCEO">
+        <item name="android:textSize">17sp</item>
+        <item name="android:gravity">left</item>
+        <item name="android:colorBackground">@color/colorCEOBack</item>
+        <item name="android:textColor">@color/colorCEOText</item>
+    </style>
+
+
+    <style name="AboutMeTitle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/colorAboutMeTitle</item>
+    </style>
+    <style name="AboutMeText">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

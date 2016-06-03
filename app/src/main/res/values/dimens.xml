@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="ceo_height">160dp</dimen>
+
+    <dimen name="profileHeight">100dp</dimen>
+    <dimen name="profileWidth">100dp</dimen>
+
+    <dimen name="ceoImageHeight">30dp</dimen>
+    <dimen name="ceoImageWidth">30dp</dimen>
+
+    <dimen name="button_margin">20dp</dimen>
+    <dimen name="button_width">100dp</dimen>
+</resources>

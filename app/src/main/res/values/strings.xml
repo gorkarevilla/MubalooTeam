@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mubaloo Team</string>
+    <string name="aboutme">About me</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="aboutme_title">About Me</string>
+    <string name="aboutme_text1">This App is developed by Gorka Revilla for Mubaloo Android Developer Test.</string>
+    <string name="aboutme_text2">Thanks for reviewing it.</string>
+    <string name="aboutme_text3">If you would like to contact me, write to: </string>
+    <string name="aboutme_text4">Email: gorkarevilla@gmail.com</string>
+    <string name="close">Close</string>
+
+    <string name="isOnline">The app is Connected</string>
+    <string name="isOffline">The app is Disconnected</string>
+    <string name="unableGetData">Unable to connect to the Server.</string>
+</resources>
